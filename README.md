@@ -118,6 +118,15 @@ One board on visual collaboration platform Trello which includes all the tools /
 - [Javascript.info](https://javascript.info/)
 - [W3Schools](https://www.w3schools.com/js/DEFAULT.asp)
 - [JavaScript30](https://javascript30.com/)
+
+###### JavaScript Testing
+
+- [Jest](https://jestjs.io/) - JavaScript testing framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Jasmine](https://jasmine.github.io/) - Asynchronous testing is a feature-rich JavaScript automation testing framework for JavaScript
+- [Karma](https://karma-runner.github.io/latest/index.html) - JavaScript test runner![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Nightwatch.js](https://nightwatchjs.org/) - End-to-end testing, the easy way.
+- [Mocha](https://mochajs.org/) - JavaScript testing framework ![Free](https://img.shields.io/badge/-Free-brightgreen)
+- [Chai](https://www.chaijs.com/) - Assertation library for JavaScript testing ![Free](https://img.shields.io/badge/-Free-brightgreen)
  
 
 ### YouTube Tutorials
